@@ -1,71 +1,29 @@
-"APELLIDO PATERNO","APELLIDO MATERNO",NOMBRES,CARNET,EMITIDO,CELULAR,CORREO,ASSISTANT ROBOTIC ARM,CUBESAT,DEEPRACER-AWS,ENJAMBRE,EXOM,MECA MOBILE,MONITOR INTEGRAL DE BEBES (MIB),QIP CONTROL,ROBOTICA COMPETITIVA,ROVER HERC NASA,SEEKER,SOLAR CAR,TECHNOLOTREE,VOA,"NUMERO DE PROYECTOS",PROYECTO 1,PROYECTO 2,PROYECTO 3,PROYECTO 4,
-Núñez,Arroyo,Alejandro,10410426,CH,75443723,ale.nunez.arroyo@gmail.com,,,X,,,,,,X,X,,,,,,ROVER HERC NASA,ROBOTICA COMPETITIVA,DEEPRACER-AWS,,
-Fernandez,Testa,Sergio Rodrigo,6765613,LP,69761943,sergiorodrigofernandeztesta@gmail.com,,,X,,,,,,X,X,,,,,3,ROVER HERC NASA,ROBOTICA COMPETITIVA,DEEPRACER-AWS,,
-Aguilera,Salinas,Santiago Javier,8460529,LP,78931060,santiagoaguilera0212@gmail.com,,,,,,,,,,,,X,,,1,SOLAR CAR,,,,
-Alavi,Gallardo,Ever Imanol,8432753,LP,65525152,ever.alavi@ucb.edu.bo,,,,,X,,,,X,,,,,,2,ROBOTICA COMPETITIVA,EXOM,,,
-Alcocer,,Bruno Valentin,7360588,OR,76136415,bruno.alcocer@ucb.edu.bo,X,,,,,,,,,,,,,,1,ASSISTANT ROBOTIC ARM,,,,
-Aldana,Martinez,Alexis David,10538962,PT,69631333,Alex987272@gmail.com,X,,,,,,,,,,,,,,1,ASSISTANT ROBOTIC ARM,,,,
-Aliaga,Espinoza,Carlos Nicolas,6189386,LP,77798502,carlos.aliaga@ucb.edu.bo,,,,,,,,,,X,,,,,1,ROVER HERC NASA,,,,
-Ayllon,Hidalgo,José Antonio,6189790,LP,73730915,jose.ayllon@ucb.edu.bo,,,,,,,,,X,,,,,,1,ROBOTICA COMPETITIVA,,,,
-Barbosa,Ballivian,Sergio Sebastian,8369065,LP,71596550,sergio.barbosa@ucb.edu.bo,X,,,,,,,,,,,,,,1,ASSISTANT ROBOTIC ARM,,,,
-Bellott,Argandoña,Carlos Eduardo,6954564,LP,67055877,carlos.bellott@ucb.edu.bo,,,,,X,,,,,,,,,,1,EXOM,,,,
-Bernal,Benavides,Andrea Lucia,13440490,LP,73024649,andrealuciaberben@gmail.com,,,,,,,,,,X,,X,,,2,ROVER HERC NASA,SOLAR CAR,,,
-Blanco,Gutierrez,Giovanni Alexandro,8467287,LP,75296318,giometal94@gmail.com,,,,,,,,,,,X,,,,1,SEEKER,,,,
-Calderon,Molina,Rotherick Fernando,8329330,LP,60143867,rotherickcalderon@ieee.org,,,,X,,,,,,,,,,,1,ENJAMBRE,,,,
-Callata,Suxo,Alvaro Daniel,9991096,LP,78839403,alvaro.callata@ucb.edu.bo,,,,X,,,,,,X,X,,X,,4,ROVER HERC NASA,ENJAMBRE,TECHNOLOTREE,SEEKER,
-Calvimontes,Vera,Diego,7511812,CH,60316630,dacalvimontes@gmail.com,,,,X,,,,,,,,,,,1,ENJAMBRE,,,,
-Castellón,Mendoza,Andrés Fernando,6172640,LP,67079527,andres.castellon@ucb.edu.bo,,,,,,,,,X,,,,,,1,ROBOTICA COMPETITIVA,,,,
-Cervantes,Arispe,Lesly,10348437,CH,68425603,lesly.cervantes@ucb.edu.bo,,,,,,,,,X,,,,,,1,ROBOTICA COMPETITIVA,,,,
-Chambi,Navia,Reyna Daniela,6118036,LP,69882298,reyna.chambi@ucb.edu.bo,,,,,X,,,,,,,,,,1,EXOM,,,,
-Conchari,Cabrera,Christian Ricardo,6725770,LP,65178489,chrisconchari@gmail.com,,,X,,,X,,X,,,,,,,3,MECA MOBILE,QIP CONTROL,DEEPRACER-AWS,,
-Conde,Alvarado,Litzy Ximena,8313402,LP,67049765,litzy.conde@gmail.com,,,,,,,,,,,,,,X,1,VOA,,,,
-Condori,Machaca,Jaime Alejandro,13117692,LP,67127151,jaime.condori@ucb.edu.bo,,,,,,X,,,,X,,,,,2,MECA MOBILE,ROVER HERC NASA,,,
-CORIZA,RONDO,Ignacio Sebastián,9874549,LP,70154529,ignacio.coriza230401@gmail.com,,,,,,,,,X,X,,,,,2,ROVER HERC NASA,ROBOTICA COMPETITIVA,,,
-DURAN,TOCONAS,BRAYAN GERSON,12495789,PT,75949758,brayandurantoconas@gmail.com,,,,,,,,,X,X,,,,,2,ROVER HERC NASA,ROBOTICA COMPETITIVA,,,
-Elías,Soria,Juan Manuel,7891085,CBA,77449100,manuelitoeliassoria@gmail.com,,,,,,,,,X,X,,,,,2,ROVER HERC NASA,ROBOTICA COMPETITIVA,,,
-Enríquez,Velásquez,Marcelo Alberto,6867337,LP,70136981,marcelo.enriquez@ucb.edu.bo,,,,,,,,,X,X,,,,,2,ROVER HERC NASA,ROBOTICA COMPETITIVA,,,
-Escobar,Chuquímia,Jaime Andrés,12735012,LP,77725047,jaime.escobar.c@ucb.edu.bo,,,,X,,,,,,,,,,,1,ENJAMBRE,,,,
-Fernández,Baldivieso,Mariel Rosario,10930184,LP,73069179,mariel.fernandez@ucb.edu.bo,,,,,,,,,,X,,,X,,2,ROVER HERC NASA,TECHNOLOTREE,,,
-Guerra,Perez,Jazmine Zulema,8737797,CBA,70691859,jazjeon@gmail.com,,,,,,,,,,X,,,,,1,ROVER HERC NASA,,,,
-Herrera,Peralta,Ramón Walter,5054900,TR,75865280,monchese0@gmail.com,,,,,X,,,,,,,,,,1,EXOM,,,,
-Jallaza,Maldonado,Fabricio Alejandro,6118590,LP,67198774,fabriciojallaza@gmail.com,,,X,,,,,,X,X,,,,,3,ROVER HERC NASA,ROBOTICA COMPETITIVA,DEEPRACER-AWS,,
-Limachi,Loayza,Helen Steffani,13495676,LP,70582350,helen.limachi@ucb.edu.bo,,,,,,,,,,X,,,X,,2,ROVER HERC NASA,TECHNOLOTREE,,,
-López,Tarqui,Abigail Belén,6746044,LP,77577201,belen.atlw@gmail.com,,,,,,,,,X,,,,,,1,ROBOTICA COMPETITIVA,,,,
-Maldonado,Mercado,Ricardo Andre,9868993,LP,60552179,ricardo.maldonado@ucb.edu.bo,,,,,,X,,,,,,,,,1,MECA MOBILE,,,,
-Mamani,Mamani,Melina Dione,12864741,LP,69950046,melina.mamani@ucb.edu.bo,,,,X,,,,,X,,X,,,,3,ROBOTICA COMPETITIVA,ENJAMBRE,SEEKER,,
-Mamani,Quiroga,Misael Jhamel,13279319,LP,68067704,misael.mamani@ucb.edu.bo,,,,,,,,,,X,,,X,,2,ROVER HERC NASA,TECHNOLOTREE,,,
-Mamani,Quispe,Cristhofer Yhanmir,12765071,LP,77590906,cristhoferup1@gmail.com,,,,,X,,,,,,,,,,1,EXOM,,,,
-Manrique,Torrico,Rodrigo Alejandro,8466939,LP,65548507,rodrigo.manrique@ucb.edu.bo,,,,,,,,X,,,,,,,1,QIP CONTROL,,,,
-Marin,Rios,Jhoel,12654121,PT,77865587,jhoelm874@gmail.com,,,,,,,,,X,,,,,,1,ROBOTICA COMPETITIVA,,,,
-Martinez,Carballo,Ana Raquel,8461711,LP,69929383,ana.martinez.c@ucb.edu.bo,,,,,,,,,,X,,,,,,ROVER HERC NASA,,,,
-Miranda,Saravia,Leoni Marti,12543885,LP,69975552,LEONIMARTI52@GMAIL.COM,,,,,,,,,X,X,,,,,2,ROVER HERC NASA,ROBOTICA COMPETITIVA,,,
-Molina,Montes,Mariana,6174744,LP,78824457,mariana.molina@ucb.edu.bo,,,,,,,,,X,X,,,,,2,ROVER HERC NASA,ROBOTICA COMPETITIVA,,,
-Mollocuaquira,Caparicona,Raul Angel,9113015,LP,76294615,raul.mollocuaquira@ucb.edu.bo,,,,,,,,,,X,,,,,1,ROVER HERC NASA,,,,
-Montecinos,Menacho,Igor,7357471,OR,76150012,igor.montecinos@ucb.edu.bo,,,,,,,,,X,X,,,,,2,ROVER HERC NASA,ROBOTICA COMPETITIVA,,,
-Mora,López,Alejandro Matías,8464828,LP,73262160,morita720@gmail.com,,,,,,,,,X,X,,,,,2,ROVER HERC NASA,ROBOTICA COMPETITIVA,,,
-MORALES,SEGALES,ARIEL HERNAN,6838472,LP,67172266,ahmsarielmorales@gmail.com,,,,,,,,,,,,,,X,1,VOA,,,,
-Murillo,Quispe,Sandro Estiven,9959730,LP,73726394,sandro.murillo@ucb.edu.bo,,,,,,,,,,,,X,,,1,SOLAR CAR,,,,
-Nina,Magueño,Juan Dilan,7040400,LP,72507630,juan.nina@ucb.edu.bo,,,,,,,,,,X,,,X,,2,ROVER HERC NASA,TECHNOLOTREE,,,
-Ortega,Ortega,Sinei Libny,9205056,LP,76276827,sineilibny@gmail.com,,,,,,,,,,,,X,,,1,SOLAR CAR,,,,
-Palomino,Sánchez,Luis Fernando,10930240,LP,76226895,luis.palomino@ucb.edu.bo,X,,,,X,,,,X,X,,,,,4,ROVER HERC NASA,ROBOTICA COMPETITIVA,EXOM,ASSISTANT ROBOTIC ARM,
-Pasquier,Rios,Samuel Jonathan,12764087,LP,67165548,samuel.pasquier@ucb.edu.bo,,,,,,,,,,,,,,X,1,VOA,,,,
-Quenta,Alvarez,Hamed Emmerson,9868600,LP,71243786,hamed.quenta@ucb.edu.bo,,,,,,X,,,,,,,,,1,MECA MOBILE,,,,
-Quinteros,Terrazas,Osvaldo Cesar,8434046,LP,70135802,osvaldo.quinteros@ucb.edu.bo,,,,,,X,,,,X,,,,,2,MECA MOBILE,ROVER HERC NASA,,,
-Rojas,Bulacia,Nidia Pamela,6947907,LP,70684813,nrojasbulacia@gmail.com,,,,X,,,,,,,,,,,1,ENJAMBRE,,,,
-Rondo,Marquez,Arnold Kevin,6888541,LP,62586900,arnold.rondo@ucb.edu.bo,,,,,,,,,,,,X,,,1,SOLAR CAR,,,,
-Santa Cruz,Estrada,Jhonn Piter,10391062,CH,73682374,pisantacruzes@gmail.com,,,,,,,,,X,,,,,,1,ROBOTICA COMPETITIVA,,,,
-Silva,Sucasaca,Joel Martin,8311963,LP,79172646,joel.silva.s@ucb.edu.bo,X,,,,,,,,X,,,,,,2,ROBOTICA COMPETITIVA,ASSISTANT ROBOTIC ARM,,,
-Soliz,Barrientos,Rodolfo Melvin,8515458,PT,79441151,rodolfo.soliz@ucb.edu.bo,,,,,,,,,X,,,,,,1,ROBOTICA COMPETITIVA,,,,
-Taboada,Gomez,Nicolas Miguel,13121353,LP,65166392,nicolas.taboada@ucb.edu.bo,X,,,,,X,,,,X,,X,,,4,MECA MOBILE,ROVER HERC NASA,SOLAR CAR,ASSISTANT ROBOTIC ARM,
-Ticona,Coaquira,Franklin Josue,9922593,LP,78793091,franklin.ticona@ucb.edu.bo,,X,,,,,,X,,X,,,,,3,ROVER HERC NASA,QIP CONTROL,CUBESAT,,
-Torres,Vidal,Franco Sebastián,5684446,CH,60303889,francosebastiantorresvidal@gmail.com,,,,,,,,,,X,,,,,1,ROVER HERC NASA,,,,
-Torrez,Turumaya,Geovanny Ghilmar,9398675,CBA,75481658,geovanny.torrez@ucb.edu.bo,,,,,,,,,X,X,,,,,2,ROVER HERC NASA,ROBOTICA COMPETITIVA,,,
-Tusco,Zegarra,Christian Ricardo,6962589,LP,78852780,christiantusco@gmail.com,,,,,,,,,,X,,X,,,2,ROVER HERC NASA,SOLAR CAR,,,
-Uchani,Guachalla,Yamil Ronald,10032021,LP,61206260,yamilronalduchaniguachalla@gmail.com,,,X,,,X,,X,,,,,,X,4,MECA MOBILE,QIP CONTROL,VOA,DEEPRACER-AWS,
-Valda,Peñaranda,José David,7494471,CH,70311810,jose.valda@ucb.edu.bo,,,,X,,,,,X,X,,,,,3,ROVER HERC NASA,ROBOTICA COMPETITIVA,ENJAMBRE,,
-VELASCO,PALACIOS,CARLA TATIANA,5782142,TR,73369688,carla.velasco@ucb.edu.bo,,,,,,,,,X,,,,,X,2,ROBOTICA COMPETITIVA,VOA,,,
-Velasquez,Omonte,Loana Kassandra,8468273,LP,77722973,loana.velasquez@ucb.edu.bo,,,,X,,,,,,X,,,X,,3,ROVER HERC NASA,ENJAMBRE,TECHNOLOTREE,,
-Vélez,Barahona,Mauricio,8463161,LP,60111119,zvelezbara@gmail.com,,,,,,X,,,,,,,,,1,MECA MOBILE,,,,
-Vidaurre,Torrez,Karen Wendy,9866106,LP,78866882,karen.vidaurre@ucb.edu.bo,,X,,,,,,,,X,,,,,2,ROVER HERC NASA,CUBESAT,,,
-Villca,Quiroga,Linsday Joselin,6812549,LP,78769019,lins.v.quiroga@gmail.com,,,,,,,X,,X,,,X,,,3,SOLAR CAR,ROBOTICA COMPETITIVA,MONITOR INTEGRAL DE BEBES (MIB),,
-Zenteno,Flores,Alison Margoth,8468270,LP,67101855,margo.u1113@gmail.com,,,,,,X,,,,,X,,,X,3,MECA MOBILE,VOA,SEEKER,,
+Timestamp,Email Address,Nombre,Telefono,Carrera,Institucion
+8/2/2021 17:34:18,sandratestai@hotmail.com,Sandra Testa Irahola,72509017,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/2/2021 17:34:18,jorgeferdaza@gmail.com,Jorge Fernandez Daza,77276355,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/2/2021 17:34:18,karen.vidaurre@ucb.edu.bo,Karen Wendy Vidaurre Torrez ,78866882,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/2/2021 17:46:59,jfcallem@gmail.com,Jhon Fernando Calle Macusaya,68076193,Ingenieria industrial,"Universidad Catolica Boliviana ""San Pablo"""
+8/2/2021 17:49:58,dalcioalejandro@gmail.com,Dalcio Massi,75274700,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/2/2021 17:54:29,leonimarti52@gmail.com,Leoni Marti Miranda Saravia ,69975552,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/2/2021 17:55:57,aromel52@gmail.com,Alejandro Rommel Miranda Saravia ,77591866,Estudiante,Don Bosco el Prado 
+8/2/2021 18:25:13,ea.aguilarelmer@gmail.com,Elmer Alejandro Aguilar Laura,69943317,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/2/2021 19:19:01,adhemar.alejandro@gmail.com,Adhemar Alejandro Huanca Loayza ,72085883,Ingenieria biomedica,"Universidad Catolica Boliviana ""San Pablo"""
+8/2/2021 19:29:35,misael.mamani@ucb.edu.bo,Misael Jhamel Mamani Quiroga,68067704,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/2/2021 20:22:49,lopez.alejandro.1204@gmail.com,Alejandro Lopez Alcala,77786829,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/2/2021 21:04:22,fabri_valdy@hotmail.com,Fabricio Valdez,74141704,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/2/2021 22:06:32,1rafaelkrs1@gmail.com,Rafael,75222122,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/3/2021 1:35:30,mackventura123@gmail.com,Maclin Alberto Ventura Choque,69647879,Ingenieria Electronica ,Universidad Autonoma Tomas Frias
+8/3/2021 7:03:22,milton.fernandez836@gmail.com,Milton,67306188,Ingenieria mecatronica,Universidad Mayor de San Andres
+8/3/2021 11:47:54,rubnor@hotmail.com,Ruben Orlando Sejas Mancachi ,76718394,Ingenieria mecatronica,Universidad Mayor de San Andres
+8/3/2021 13:43:48,freddx444@gmail.com,freddy magne loza,60107000,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/3/2021 13:47:01,lobov1234.fv@gmail.com,Franz Jose Villa Apaza,74906511,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/3/2021 22:21:22,natasjuarez@gmail.com,Natalia,77715577,Ingenieria industrial,Universidad Mayor de San Andres
+8/4/2021 14:14:39,diemau2029@gmail.com,Diego Pinto ,70587421,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/4/2021 18:47:23,jaime.condori@ucb.edu.bo,Jaime Alejandro Condori Machaca ,67127151,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/4/2021 22:11:30,s.loperaqueve.66@gmail.com,Sebastian Andree Lopera Quevedo,63084830,Ingenieria mecatronica,Universidad Mayor de San Andres
+8/5/2021 19:46:06,fjustinianoz@hotmail.com,Fanny Justiniano ,72556486,Comunicacion Social ,"Universidad Catolica Boliviana ""San Pablo"""
+8/5/2021 20:28:32,nicole.chambi.machaca@gmail.com,Nicole Montserrat Chambi Machaca,69769767,Ingenieria biomedica,"Universidad Catolica Boliviana ""San Pablo"""
+8/5/2021 23:30:12,lauradanae8@gmail.com,Laura Coca Humerez,76252048,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/6/2021 9:20:24,wilber.rojas@ucb.edu.bo,Wilber alvaro Rojas Fernandez,77756730,Ingenieria mecatronica,"Universidad Catolica Boliviana ""San Pablo"""
+8/6/2021 11:12:32,jorgeferdaza@gmail.com,Jorge Fernandez Daza,77276355,Derecho,"Universidad Catolica Boliviana ""San Pablo"""
+8/6/2021 11:14:48,sandratestai@hotmail.com,Sandra Testa,72509017,Ciencias de la Comunicacion,"Universidad Catolica Boliviana ""San Pablo"""
