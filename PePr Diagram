@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Page-1" id="RSwg_O8404TZz-kFNQ4k">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Mobile Phone" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="8" y="10" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="JS Backend" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="347" y="18" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Database" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="612" y="8" width="114" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Request data" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.42;entryX=0;entryY=0.42;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="39" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="Process data" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.41;entryX=0;entryY=0.43;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="44" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="Return response" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=1;entryY=0.58;" edge="1" parent="1" source="4" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="86" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="Send response to mobile phone" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=1;entryY=0.58;" edge="1" parent="1" source="3" target="2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="91" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
